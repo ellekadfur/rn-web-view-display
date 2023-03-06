@@ -1,6 +1,6 @@
 {
   "name": "elle-react-native-custom-web-view",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Customizeable React native web view.",
   "main": "index.js",
   "scripts": {
